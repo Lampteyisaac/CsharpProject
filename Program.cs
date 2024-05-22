@@ -1,13 +1,15 @@
 ﻿Console.WriteLine("\t\tWelcome to the Guess Game!\n");
+Console.WriteLine("\tLoading.........");
 Console.WriteLine("Enter Your Name to Register: ");
 var GameName = Console.ReadLine();
+Console.WriteLine($"\tRegistration Successful {GameName}");
 
 List<string> names = new List<string> { "Alice", "Bob", "Charlie", "Dave", "Eve" };
 string? userName = null;
 
 while (true)
 {
-    Console.Write("Make make your Guess: ");
+    Console.Write("Make make your Guess here: ");
     
     userName = Console.ReadLine();
     
