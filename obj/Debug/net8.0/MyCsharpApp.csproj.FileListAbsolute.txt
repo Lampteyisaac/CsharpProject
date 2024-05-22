@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\MyCsharpApp\obj\Debug\net8.0\MyCsharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\MyCsharpApp\obj\Debug\net8.0\MyCsharpApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\MyCsharpApp\obj\Debug\net8.0\MyCsharpApp.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\MyCsharpApp\obj\Debug\net8.0\MyCsharpApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MyCsharpApp\obj\Debug\net8.0\MyCsharpApp.sourcelink.json
+C:\Users\ASUS\Desktop\MyCsharpApp\bin\Debug\net8.0\MyCsharpApp.exe
+C:\Users\ASUS\Desktop\MyCsharpApp\bin\Debug\net8.0\MyCsharpApp.deps.json
+C:\Users\ASUS\Desktop\MyCsharpApp\bin\Debug\net8.0\MyCsharpApp.runtimeconfig.json
+C:\Users\ASUS\Desktop\MyCsharpApp\bin\Debug\net8.0\MyCsharpApp.dll
+C:\Users\ASUS\Desktop\MyCsharpApp\bin\Debug\net8.0\MyCsharpApp.pdb
+C:\Users\ASUS\Desktop\MyCsharpApp\obj\Debug\net8.0\MyCsharpApp.dll
+C:\Users\ASUS\Desktop\MyCsharpApp\obj\Debug\net8.0\refint\MyCsharpApp.dll
+C:\Users\ASUS\Desktop\MyCsharpApp\obj\Debug\net8.0\MyCsharpApp.pdb
+C:\Users\ASUS\Desktop\MyCsharpApp\obj\Debug\net8.0\MyCsharpApp.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\MyCsharpApp\obj\Debug\net8.0\ref\MyCsharpApp.dll
